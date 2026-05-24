@@ -1,0 +1,12 @@
+{
+  "name": "ai-bug-reporter",
+  "version": "1.0.0",
+  "description": "CLI tool that generates structured Jira tickets from plain English descriptions and screenshots using Claude AI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0"
+  }
+}

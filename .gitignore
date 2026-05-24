@@ -1,0 +1,5 @@
+node_modules/
+tickets/
+context.json
+.env
+*.env
