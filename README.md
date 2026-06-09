@@ -1,4 +1,4 @@
-# AI Bug Reporter
+# AI Bug Reporter - Garret Craig
 
 A command-line tool that turns plain English bug descriptions and screenshots into structured, professional Jira tickets using Claude AI.
 
